@@ -1,0 +1,13 @@
+/* header */
+h1{
+    color: red;
+    font-size: 100px;
+    font-weight: 1000;
+}
+.img-header{
+    background-image:linear-gradient(rgba(20, 30, 27, 0.468), rgba(20, 30, 27, 0.782) 70%),url(/public/img/header.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
